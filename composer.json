@@ -1,5 +1,5 @@
 {
-	"name": "gathernholding/yii-bootstrap-bower",
+	"name": "bower",
     "description": "Bower Bootstrap",
     "require": {
         "php": ">=8.1"
