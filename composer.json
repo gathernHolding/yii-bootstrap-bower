@@ -13,12 +13,8 @@
 	  "phpunit/phpunit": ">=4.0"
   },
 "extra": {
-    "asset-installer-paths": {
-	"npm-asset-library": "vendor/npm",
-	"bower-asset-library": "vendor/bower"
-	},
-	"branch-alias": {
-	    "dev-master": "1.0-dev"
-	}
+	"installer-paths": {
+            "{$name}": ["vendor/bower"]
+        }
     }
 }
