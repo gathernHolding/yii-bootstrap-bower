@@ -15,8 +15,9 @@
       "type": "vcs",
       "url": "https://github.com/gathernHolding/yii-bootstrap-bower.git"
     }
+	"minimum-stability": "dev"
   ],
   "require": {
-    "gathernHolding/yii-bootstrap-bower": "dev-main"
+    "gathernHolding/yii-bootstrap-bower": "main"
   }
 }
