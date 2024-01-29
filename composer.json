@@ -8,6 +8,6 @@
 	"minimum-stability": "dev"
   ],
   "require": {
-    "gathernHolding/yii-bootstrap-bower": "*"
+    "gathernHolding/yii-bootstrap-bower": "main@dev"
   }
 }
