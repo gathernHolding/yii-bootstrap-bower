@@ -1,23 +1,13 @@
 {
-	"name": "gathernHolding/yii-bootstrap-bower",
-    "version": "main",
-    "dist": {
-        "type": "path",
-        "url": ".",
-        "shasum": null
-    }
-}
-
-{
   "name":  "gathernHolding/yii-bootstrap-bower",
   "repositories": [
     {
       "type": "vcs",
       "url": "https://github.com/gathernHolding/yii-bootstrap-bower.git"
-    }
+    },
 	"minimum-stability": "dev"
   ],
   "require": {
-    "gathernHolding/yii-bootstrap-bower": "main"
+    "gathernHolding/yii-bootstrap-bower": "*"
   }
 }
