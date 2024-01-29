@@ -1,0 +1,25 @@
+{
+  "name": "gathernholding/yii-bootstrap-bower",
+  "type": "library",
+  "description": "yii-bootstrap-bower",
+  "keywords": [
+    "date",
+    "time",
+    "DateTime",
+    "Period"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gathern Holding"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Advmaker\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0",
+  }
+}
