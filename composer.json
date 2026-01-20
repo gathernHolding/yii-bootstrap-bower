@@ -4,6 +4,12 @@
   "type": "package",
   "version": "1.4",
   "license": "MIT",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
   "authors": [
     {
       "name": "Gathern Holding",
