@@ -2,7 +2,7 @@
   "name": "gathernholding/yii-bootstrap-bower",
   "description": "Bootstrap assets packaged for Yii / Composer usage",
   "type": "package",
-  "version": "1.5",
+  "version": "1.6",
   "license": "MIT",
   "repositories": [
     {
